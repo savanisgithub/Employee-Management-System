@@ -1,0 +1,26 @@
+.loginPage {
+    background-image: url('Images/employeems.jpg') ;
+    background: linear-gradient(rgba(39, 38, 38, 0.5), rgba(63, 63, 63, 0.5)), url("Images/employeems.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm {
+    background-color: rgba(3, 29, 76, 0.745);
+    color: white;
+}
+
+.btn{
+    align-items: center;
+}
+
+ul li :hover {
+    background-color: gray;
+}
+
+.Emp_img {
+    width:60px;
+    height: 60px;
+    border-radius: 40%;
+}
